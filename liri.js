@@ -1,6 +1,7 @@
-//spotify client ID and Secret protection (stored locally and never pushed to GitHub)
+//dotenv Require for spotify client ID and Secret protection
 require("dotenv").config();
-//Requires
+
+//NPM Requires
 const keys = require("./keys.js");
 const Spotify = require("node-spotify-api");
 const axios = require("axios");
@@ -10,6 +11,23 @@ const fs = require("fs");
 //User Inputs
 const userInput = process.argv[2];
 const userQuery = process.argv.slice(3).join(" ");
+
+//Messages
+function message() {
+  if (!userQuery) {
+    console.log(
+      "_____________________________________________________\n\nNo User Input - Searching Random...\n_____________________________________________________"
+    );
+  } else {
+    console.log(
+      "_____________________________________________________\n\nSearching for: " +
+        userQuery +
+        "...\n_____________________________________________________"
+    );
+  }
+}
+const commandError =
+  "=================================\nError: Unknown User Input.\nliri.js can only take in one of the following commands;\n--> concert-this\n--> spotify-this-song\n--> movie-this\n--> do-what-it-says\n=================================";
 
 //Commands
 function userCommand(userInput, userQuery) {
@@ -27,20 +45,14 @@ function userCommand(userInput, userQuery) {
       doWhatItSays(userQuery);
       break;
     default:
-      console.log(
-        "=================================\nError: Unknown Command.\nliri.js can only take in one of the following commands;\nconcert-this\nspotify-this-song\nmovie-this\ndo-what-it-says\n================================="
-      );
+      console.log(commandError);
       break;
   }
 }
 userCommand(userInput, userQuery);
 
 function concertThis() {
-  console.log(
-    "_____________________________________________________\n\nSearching for: " +
-      userQuery +
-      "...\n_____________________________________________________"
-  );
+  if (userQuery) message();
   let artistQuery =
     "https://rest.bandsintown.com/artists/" +
     userQuery +
@@ -50,16 +62,17 @@ function concertThis() {
     .then(function(response) {
       for (let i = 0; i < response.data.length; i++) {
         let printFormat =
-          "_____________________________________________________\n\nVenue: " +
+          "\nVenue: " +
           response.data[i].venue.name +
-          "\nCity: " +
+          "\n City: " +
           response.data[i].venue.city +
-          "\nDate: " +
+          "\n Date: " +
           moment(response.data[i].datetime).format("DD/MM/YYYY") +
-          "\nTime: " +
+          "\n Time: " +
           moment(response.data[i].datetime).format("HH:mm") +
           "\n_____________________________________________________";
         console.log(printFormat);
+        logFile(printFormat);
       }
     })
     .catch(function(error) {
@@ -85,6 +98,7 @@ function concertThis() {
 }
 
 function spotifyThisSong(userQuery) {
+  message();
   if (!userQuery) {
     userQuery = "the sign ace of base";
   }
@@ -101,20 +115,94 @@ function spotifyThisSong(userQuery) {
           artists.push(artistArray[a].name);
         }
         printFormat =
-          "\n_____________________________________________________" +
-          "\n\nArtists: " +
+          "\n     Artists: " +
           artists.join(", ") +
-          "\nSong: " +
+          "\n        Song: " +
           songInfo[i].name +
-          "\nAlbum: " +
+          "\n       Album: " +
           songInfo[i].album.name +
           "\nPreview Link: " +
           songInfo[i].preview_url +
           "\n_____________________________________________________";
         console.log(printFormat);
+        logFile(printFormat);
       }
     }
   });
 }
+function movieThis(userQuery) {
+  message();
+  if (!userQuery) {
+    userQuery = "mr nobody";
+  }
+  let movieQuery =
+    "http://www.omdbapi.com/?t=" + userQuery + "&y=&plot=short&apikey=trilogy";
+  axios
+    .get(movieQuery)
+    .then(function(response) {
+      // console.log(response.data);
+      movie = response.data;
+      printFormat =
+        "\nTitle: " +
+        movie.Title +
+        "\nYear: " +
+        movie.Year +
+        "\nRating: " +
+        movie.Ratings[1].Value +
+        "\nCountry Produced: " +
+        movie.Country +
+        "\nLanguage: " +
+        movie.Language +
+        "\nPlot: " +
+        movie.Plot +
+        "\nActors: " +
+        movie.Actors +
+        "\n_____________________________________________________";
+      console.log(printFormat);
+      logFile(printFormat);
+    })
+    .catch(function(error) {
+      if (error.response) {
+        // The request was made and the server responded with a status code
+        // that falls out of the range of 2xx
+        console.log("---------------Data---------------");
+        console.log(error.response.data);
+        console.log("---------------Status---------------");
+        console.log(error.response.status);
+        console.log("---------------Status---------------");
+        console.log(error.response.headers);
+      } else if (error.request) {
+        // The request was made but no response was received
+        // `error.request` is an object that comes back with details pertaining to the error that occurred.
+        console.log(error.request);
+      } else {
+        // Something happened in setting up the request that triggered an Error
+        console.log("Error", error.message);
+      }
+      console.log(error.config);
+    });
+}
+function doWhatItSays() {
+  fs.readFile("./random.txt", "utf8", function(error, data) {
+    // If the code experiences any errors it will log the error to the console.
+    if (error) {
+      return console.log(error);
+    } else {
+      // Then split it by commas (to make it more readable)
+      let random = data.split(",");
+      let userInput = random[0];
+      let userQuery = random[1];
 
-// OMDB_ID=a833708e
+      userCommand(userInput, userQuery);
+    }
+  });
+}
+
+function logFile(printFormat) {
+  fs.appendFile("log.txt", printFormat, function(err) {
+    // If the code experiences any errors it will log the error to the console.
+    if (err) {
+      return console.log("Error: " + err);
+    }
+  });
+}

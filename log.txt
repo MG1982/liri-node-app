@@ -1,0 +1,191 @@
+
+Venue: PNC Arena
+ City: Raleigh
+ Date: 24/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Capital One Arena
+ City: Washington
+ Date: 25/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 13/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 12/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 10/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Save Mart Center
+ City: Fresno
+ Date: 15/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: T-Mobile Arena
+ City: Las Vegas
+ Date: 17/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Gila River Arena
+ City: Glendale
+ Date: 18/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Frank C. Erwin, Jr., Special Events Center
+ City: Austin
+ Date: 21/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: State Farm Arena
+ City: Atlanta
+ Date: 28/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: American Airlines Center
+ City: Dallas
+ Date: 22/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Smoothie King Center
+ City: New Orleans
+ Date: 01/02/2020
+ Time: 20:00
+_____________________________________________________
+Venue: RAC Arena
+ City: Perth
+ Date: 14/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: FedEx Forum
+ City: Memphis
+ Date: 31/01/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Qudos Bank Arena
+ City: Sydney
+ Date: 17/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Bridgestone Arena
+ City: Nashville
+ Date: 29/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Spark Arena
+ City: Auckland
+ Date: 28/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Rod Laver Arena
+ City: Melbourne
+ Date: 22/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Brisbane Entertainment Centre
+ City: Boondall
+ Date: 20/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: PNC Arena
+ City: Raleigh
+ Date: 24/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Capital One Arena
+ City: Washington
+ Date: 25/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 13/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 12/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 10/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: T-Mobile Arena
+ City: Las Vegas
+ Date: 17/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Frank C. Erwin, Jr., Special Events Center
+ City: Austin
+ Date: 21/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Save Mart Center
+ City: Fresno
+ Date: 15/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: American Airlines Center
+ City: Dallas
+ Date: 22/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Bridgestone Arena
+ City: Nashville
+ Date: 29/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: State Farm Arena
+ City: Atlanta
+ Date: 28/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Gila River Arena
+ City: Glendale
+ Date: 18/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: FedEx Forum
+ City: Memphis
+ Date: 31/01/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Smoothie King Center
+ City: New Orleans
+ Date: 01/02/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Brisbane Entertainment Centre
+ City: Boondall
+ Date: 20/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: RAC Arena
+ City: Perth
+ Date: 14/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Rod Laver Arena
+ City: Melbourne
+ Date: 22/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Qudos Bank Arena
+ City: Sydney
+ Date: 17/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Spark Arena
+ City: Auckland
+ Date: 28/02/2020
+ Time: 19:00
+_____________________________________________________
