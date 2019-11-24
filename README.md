@@ -23,19 +23,37 @@ LIRI is a command line node app that takes in parameters and gives you back data
 >
 > - This command uses the File-system package to read an external text file and return a result based on its contents.
 
-##Working Examples Below:##
+## GIF Examples:
 
-**node liri concert-this Tool**
+#### node liri concert-this Tool
+
 ![alt text](./images/concertThis.gif "concert-this command example")
 
-**node liri spotify-this-song Set You Free**
+#### node liri spotify-this-song Set You Free
+
 ![alt text](./images/spotifyThis.gif "spotify-this-song command example")
 
-**node liri movie-this The Big Lebowski**
+#### node liri movie-this The Big Lebowski
+
 ![alt text](./images/movieThis.gif "movie-this command example")
 
-**node liri do-what-it-says**
+#### node liri do-what-it-says
+
 ![alt text](./images/doWhatItSays.gif "do-what-it-says command example")
+
+## IMG Examples:
+
+#### Command Error
+
+![alt text](./images/commandError.jpg "Command error example")
+
+#### Spotify-this no input
+
+![alt text](./images/spotifyDefault.jpg "Spotify-this no input example")
+
+#### movie-this no input
+
+![alt text](./images/movieThisDefault.jpg "movie-this no input example")
 
 ## Built With
 
