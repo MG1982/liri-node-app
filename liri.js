@@ -16,7 +16,7 @@ const userQuery = process.argv.slice(3).join(" ");
 function message() {
   if (!userQuery) {
     console.log(
-      "_____________________________________________________\n\nNo User Input - Searching Random...\n_____________________________________________________"
+      "_____________________________________________________\n\nNo User Input - Searching Default...\n_____________________________________________________"
     );
   } else {
     console.log(

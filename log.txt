@@ -189,3 +189,406 @@ Venue: Spark Arena
  Date: 28/02/2020
  Time: 19:00
 _____________________________________________________
+Venue: PNC Arena
+ City: Raleigh
+ Date: 24/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Capital One Arena
+ City: Washington
+ Date: 25/11/2019
+ Time: 20:00
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 13/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 10/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Save Mart Center
+ City: Fresno
+ Date: 15/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Viejas Arena
+ City: San Diego
+ Date: 12/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: Gila River Arena
+ City: Glendale
+ Date: 18/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Frank C. Erwin, Jr., Special Events Center
+ City: Austin
+ Date: 21/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: State Farm Arena
+ City: Atlanta
+ Date: 28/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: American Airlines Center
+ City: Dallas
+ Date: 22/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Bridgestone Arena
+ City: Nashville
+ Date: 29/01/2020
+ Time: 19:30
+_____________________________________________________
+Venue: Smoothie King Center
+ City: New Orleans
+ Date: 01/02/2020
+ Time: 20:00
+_____________________________________________________
+Venue: T-Mobile Arena
+ City: Las Vegas
+ Date: 17/01/2020
+ Time: 20:00
+_____________________________________________________
+Venue: FedEx Forum
+ City: Memphis
+ Date: 31/01/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Qudos Bank Arena
+ City: Sydney
+ Date: 17/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Brisbane Entertainment Centre
+ City: Boondall
+ Date: 20/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Rod Laver Arena
+ City: Melbourne
+ Date: 22/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: Spark Arena
+ City: Auckland
+ Date: 28/02/2020
+ Time: 19:00
+_____________________________________________________
+Venue: RAC Arena
+ City: Perth
+ Date: 14/02/2020
+ Time: 19:00
+_____________________________________________________
+     Artists: Phora
+        Song: Set You Free
+       Album: Set You Free
+Preview Link: https://p.scdn.co/mp3-preview/8bb43c5facfb42699585af07ab293542c5134092?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Gary Allan
+        Song: Every Storm (Runs Out Of Rain)
+       Album: Set You Free
+Preview Link: null
+_____________________________________________________
+     Artists: The Black Keys
+        Song: Set You Free
+       Album: Thickfreakness
+Preview Link: https://p.scdn.co/mp3-preview/078d67b757145cc8dedbe1d88632a9f59516f5fe?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Wale, Kelly Price
+        Song: Set You Free (feat. Kelly Price)
+       Album: Wow... That's Crazy
+Preview Link: https://p.scdn.co/mp3-preview/c079bb0714670eba4477b84fcfe2a6513967f839?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Gary Allan
+        Song: It Ain't The Whiskey
+       Album: Set You Free
+Preview Link: null
+_____________________________________________________
+     Artists: Leela James
+        Song: Set Me Free
+       Album: Fall For You
+Preview Link: https://p.scdn.co/mp3-preview/238a8afbf11dbc8abdfe675839c0bfbaf66e4231?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Active Child
+        Song: Set Me Free
+       Album: Set Me Free / All Eyes on You / Cruel World
+Preview Link: https://p.scdn.co/mp3-preview/76ebfffa78f21537454722ec396347fa86d38d17?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Sting
+        Song: If You Love Somebody Set Them Free
+       Album: The Dream Of The Blue Turtles
+Preview Link: null
+_____________________________________________________
+     Artists: 3OH!3
+        Song: Set You Free
+       Album: Set You Free
+Preview Link: https://p.scdn.co/mp3-preview/4db45bc378e2c3c8999550bdeff25397d14aa749?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Kodaline
+        Song: Love Will Set You Free
+       Album: Coming Up for Air (Deluxe)
+Preview Link: https://p.scdn.co/mp3-preview/38d40ef6b870de23bede86827418f003690b906e?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Michelle Branch
+        Song: You Set Me Free
+       Album: The Spirit Room (U.S. Version)
+Preview Link: https://p.scdn.co/mp3-preview/7117189b84c7e820f6b7089f170924ccc7ef2748?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: MYMP
+        Song: Set You Free
+       Album: Now
+Preview Link: https://p.scdn.co/mp3-preview/42c963d2c28d85a744f4a40642f53cd46a5631ff?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Vibe Street
+        Song: Set You Free
+       Album: She Makes Me Feel EP
+Preview Link: https://p.scdn.co/mp3-preview/b5e99931faf4c003422bc53fb2b6955a13864539?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Active Child
+        Song: Cruel World
+       Album: Set Me Free / All Eyes on You / Cruel World
+Preview Link: https://p.scdn.co/mp3-preview/df55b97cd238103a54322c455745a4867797d201?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Gary Allan
+        Song: Pieces
+       Album: Set You Free
+Preview Link: null
+_____________________________________________________
+     Artists: Gary Allan
+        Song: You Without Me
+       Album: Set You Free
+Preview Link: null
+_____________________________________________________
+     Artists: Kem
+        Song: Set You Free
+       Album: Kem Album II
+Preview Link: null
+_____________________________________________________
+     Artists: Brother Moses
+        Song: Love Will Set You Free.
+       Album: Love Will Set You Free.
+Preview Link: https://p.scdn.co/mp3-preview/2349811d1a5b605cd7e1e052a7c63af213dd9ec3?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Lil Tweety, Ray
+        Song: Set You Free
+       Album: Most Requested
+Preview Link: https://p.scdn.co/mp3-preview/d924a985b2ae0c2175b98c8fb50bef1bccabbc8c?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: While She Sleeps
+        Song: SET YOU FREE
+       Album: SO WHAT?
+Preview Link: null
+_____________________________________________________
+Title: The Big Lebowski
+Year: 1998
+Rating: 82%
+Country Produced: USA, UK
+Language: English, German, Hebrew, Spanish
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+_____________________________________________________
+     Artists: Backstreet Boys
+        Song: I Want It That Way
+       Album: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Backstreet Boys
+        Song: I Want It That Way
+       Album: Millennium
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Tyler and Mark
+        Song: I Want It That Way
+       Album: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Anthem Lights
+        Song: I Want It That Way
+       Album: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: "Weird Al" Yankovic
+        Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+       Album: Poodle Hat
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Backstreet Boys
+        Song: I Want It That Way - Reimagined
+       Album: I Want It That Way (Reimagined)
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Mick Jensen
+        Song: I Want It That Way
+       Album: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Dynamite Boy
+        Song: I Want It That Way
+       Album: Punk Goes Pop
+Preview Link: null
+_____________________________________________________
+     Artists: Jess and Gabriel
+        Song: I Want It That Way
+       Album: Under the Covers, Vol. 3
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Steel Panther
+        Song: I Want It That Way
+       Album: I Want It That Way
+Preview Link: null
+_____________________________________________________
+     Artists: Glee Cast
+        Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+       Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Backstreet Boys
+        Song: I Want It That Way
+       Album: 90 Sweet 90s Hits!
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Scary Pockets, Casey Abrams
+        Song: I Want It That Way
+       Album: Nu Funk
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Nineties Legends
+        Song: I Want It That Way
+       Album: Musicbox
+Preview Link: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Manuel Costa
+        Song: I Want It That Way
+       Album: I Want It That Way
+Preview Link: null
+_____________________________________________________
+     Artists: Boyce Avenue
+        Song: I Want It That Way
+       Album: Cover Sessions, Vol. 2
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Backstreet Boys
+        Song: I Want It That Way
+       Album: NKOTBSB
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+        Song: I Want It That Way
+       Album: Selfies on Kodachrome
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: "Weird Al" Yankovic
+        Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+       Album: The Essential "Weird Al" Yankovic
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Yshop
+        Song: I Want It That Way
+       Album: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: All That She Wants
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Wheel of Fortune
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Don't Turn Around
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Living in Danger
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign
+       Album: Greatest Hits
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Happy Nation
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Dancer in a Daydream
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Young and Proud
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Waiting for Magic - Total Remix 7" Version
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign
+       Album: Happy Nation (U.S. Version) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Voulez-Vous danser
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: My Mind - Mindless Mix
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: All That She Wants - Banghra Version
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: Mr Ace - Demo 1991 Bonus Track
+       Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign
+       Album: The Sign (The Remixes)
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign - Long Version
+       Album: The Sign (The Remixes)
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign - Ultimix
+       Album: The Sign (The Remixes)
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign
+       Album: The Sign (The Remixes)
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
+     Artists: Ace of Base
+        Song: The Sign - Long Version
+       Album: The Sign (The Remixes)
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=480f9909c8d542b880aefb7a20443075
+_____________________________________________________
