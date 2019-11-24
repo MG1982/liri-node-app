@@ -1,6 +1,6 @@
 # LIRI NODE APP
 
-LIRI = Language Interpretation and Recognition Interface.
+**LIRI = Language Interpretation and Recognition Interface.**
 LIRI is a command line node app that takes in parameters and gives you back data.
 
 # User commands
@@ -14,7 +14,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 ![alt text](./images/concertThis.gif "concert-this command example")
 
 **node liri spotify-this-song Set You Free**
-![alt text](./images/spotifyThisSong.gif "spotify-this-song command example")
+![alt text](./images/spotifyThis.gif "spotify-this-song command example")
 
 **node liri movie-this The Big Lebowski**
 ![alt text](./images/movieThis.gif "movie-this command example")
