@@ -33,7 +33,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 
 ![alt text](./images/spotifyThis.gif "spotify-this-song command example")
 
-#### node liri movie-this The Big Lebowski
+#### node liri movie-this The Matrix
 
 ![alt text](./images/movieThis.gif "movie-this command example")
 
