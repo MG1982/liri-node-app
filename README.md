@@ -1,14 +1,29 @@
 # LIRI NODE APP
 
-**LIRI = Language Interpretation and Recognition Interface.**
+**LIRI = Language Interpretation and Recognition Interface.**  
 LIRI is a command line node app that takes in parameters and gives you back data.
 
-# User commands
+## User commands
 
-- concert-this
-- spotify-this-song
-- movie-this
-- do-what-it-says
+> #### concert-this
+>
+> - This command uses the bands in town API to search for the users entered Band/Artist.
+
+> #### spotify-this-song
+>
+> - This command uses the Spotify API to search for the users Song Name.
+> - If no song name is entered it will return results for "The Sign" by Ace of Base.
+
+> #### movie-this
+>
+> - This command uses the OMDB API to search for the users Movie Name.
+> - If no movie name is entered it will return results for "Mr. Nobody."
+
+> #### do-what-it-says
+>
+> - This command uses the File-system package to read an external text file and return a result based on its contents.
+
+##Working Examples Below:##
 
 **node liri concert-this Tool**
 ![alt text](./images/concertThis.gif "concert-this command example")
@@ -22,7 +37,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 **node liri do-what-it-says**
 ![alt text](./images/doWhatItSays.gif "do-what-it-says command example")
 
-# Built With
+## Built With
 
 - Visual Studio Code - Text editor
 - JavaScript - Script language
