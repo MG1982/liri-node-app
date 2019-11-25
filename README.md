@@ -63,3 +63,17 @@ LIRI is a command line node app that takes in parameters and gives you back data
 - JSON - Data format
 - API's - Bandsintown, OMDB & Spotify
 - Packages - axios, dotenv, File-system, Moment
+
+> ### Here are the steps if you want to run this on your local machine
+>
+> **STEP 1.**
+> Aquire your own Spotify API ID and Secret
+> https://developer.spotify.com/documentation/web-api/
+>
+> **STEP 2.**
+> Next, create a file named .env, add the following to it, replacing the values > with your API keys once you have them:
+> SPOTIFY_ID="your-spotify-id"
+> SPOTIFY_SECRET="your-spotify-secret"
+>
+> **STEP 3.**
+> Open the folder in your code editor then open the Terminal and type 'npm install' - press enter wait for the install and then you can try the commands listed above.
