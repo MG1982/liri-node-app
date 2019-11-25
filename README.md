@@ -71,8 +71,8 @@ LIRI is a command line node app that takes in parameters and gives you back data
 > https://developer.spotify.com/documentation/web-api/
 >
 > **STEP 2.**
-> Next, create a file named .env, add the following to it, replacing the values > with your API keys once you have them:
-> SPOTIFY_ID="your-spotify-id"
+> Next, create a file named .env, add the following to it, replacing the values > with your API keys once you have them:  
+> SPOTIFY_ID="your-spotify-id"  
 > SPOTIFY_SECRET="your-spotify-secret"
 >
 > **STEP 3.**
