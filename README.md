@@ -76,4 +76,4 @@ LIRI is a command line node app that takes in parameters and gives you back data
 > SPOTIFY_SECRET="your-spotify-secret"
 >
 > **STEP 3.**
-> Open the folder in your code editor then open the Terminal and type 'npm install' - press enter wait for the install and then you can try the commands listed above.
+> Open the Liri Node App folder in your code editor then open the Terminal and type 'npm install' - press enter wait for the install and then you can try the commands listed above.
