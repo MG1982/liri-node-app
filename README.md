@@ -73,10 +73,10 @@ LIRI is a command line node app that takes in parameters and gives you back data
 > Aquire your own Spotify API ID and Secret
 > https://developer.spotify.com/documentation/web-api/
 >
-> **STEP 2.**
+> **STEP 3.**
 > Next, create a file named .env, add the following to it, replacing the values > with your API keys once you have them:  
 > SPOTIFY_ID="your-spotify-id"  
 > SPOTIFY_SECRET="your-spotify-secret"
->   
-> **STEP 3.**
+>
+> **STEP 4.**
 > Open the Liri Node App folder in your code editor then open the Terminal and type 'npm install' - press enter wait for the install and then you can try the commands listed above.
